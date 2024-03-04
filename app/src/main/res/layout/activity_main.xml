@@ -7,9 +7,6 @@
     android:onClick="onClickLinear"
     tools:context=".MainActivity">
 
-    <include
-        layout="@layout/incldue">
-    </include>
 
     <Button
         android:id="@+id/button"
